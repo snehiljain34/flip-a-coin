@@ -68,11 +68,13 @@ body{
 }
 #footer{
   padding: 7% 15%;
-  text-size: 1rem;
   text-align: center;
   background-color: #636366;
 }
 .social-icon{
   margin: 20px 10px;
   size: 100px;
+}
+.class{
+  background-color: #C7C7CC;
 }
