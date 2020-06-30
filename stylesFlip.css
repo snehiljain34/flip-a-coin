@@ -21,7 +21,7 @@ h1{
 }
 
 h2{
-  font-size: 3rem;
+  font-size: 2rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
 
@@ -40,7 +40,7 @@ footer {
   margin-top: 5%;
   color: #EEEEEE;
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Lobster', cursive;
 
 }
 
@@ -63,7 +63,9 @@ body{
     padding:0;
     margin:0;
 }
-
+.btn{
+  margin-bottom: 2rem;
+}
 #footer{
   padding: 7% 15%;
   text-align: center;
