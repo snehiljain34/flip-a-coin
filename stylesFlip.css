@@ -68,6 +68,7 @@ body{
 }
 #footer{
   padding: 7% 15%;
+  text-size: 1rem;
   text-align: center;
   background-color: #636366;
 }
